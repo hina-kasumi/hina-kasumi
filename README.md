@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 
 - 🎓 Currently studying at the University of Transport and Communications.
-- I was born in 2005.
+- I'm from HaNoi, VietNam.
 - 💻 Proficient in **Java** and **C++**.
 
 ## 🔧 Technologies & Tools
@@ -30,8 +30,8 @@ Feel free to check out my repositories to see more of what I've been working on!
 
 ## 🔗 Additional Links
 
-- **Personal Website/Portfolio:** [your-portfolio.com](https://your-portfolio.com) (if applicable)
-- **Blog:** [your-blog.com](https://your-blog.com) (if applicable)
+- **Personal Website/Portfolio:** [Do Not have yet](https://your-portfolio.com) (if applicable)
+- **VNOI Profile:** [VNOI Profile](https://oj.vnoi.info/user/HinaKasumi) (if applicable)
 
 ## 📈 GitHub Stats
 
