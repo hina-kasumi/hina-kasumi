@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name] 👋
 
-Welcome to my GitHub profile! I'm a student at the University of Transport and Communications, with a passion for software development and a focus on web and app development.
+Welcome to my GitHub profile! I'm a student at the University of Transport and Communications from VietNam.
 
 ## 🚀 About Me
 
@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a student at the University of Transport and C
 Here are a few highlights of the projects I’m working on or have completed:
 
 - **[Project Name]** - Brief description of the project and technologies used.
-- **[Project Name]** - Brief description of the project and technologies used.
 
 Feel free to check out my repositories to see more of what I've been working on!
 
@@ -36,7 +35,7 @@ Feel free to check out my repositories to see more of what I've been working on!
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=false&hide=prs&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hina-kasumi&show_icons=true&hide_title=false&hide=prs&count_private=true&theme=radical)
 
 ---
 
