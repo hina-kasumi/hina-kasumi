@@ -1,18 +1,18 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Nguyễn Hải Hiếu] 👋
 
-Welcome to my GitHub profile! I'm a student at the University of Transport and Communications from VietNam.
+Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
 - 🎓 Currently studying at the University of Transport and Communications.
+- I was born in 2005.
 - 💻 Proficient in **Java** and **C++**.
-- 🌱 Aspiring web and app developer, eager to build innovative and user-friendly applications.
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** Java, C++
 - **Web Development:** HTML, CSS, Java (Spring, Spring Boot)
-- **App Development:** Java (Android), Swift (iOS), Kotlin
+- **App Development:** Java, Kotlin (Android), Swift (iOS)
 - **Tools:** Git, GitHub, Docker, Jenkins
 
 ## 🌟 Projects
