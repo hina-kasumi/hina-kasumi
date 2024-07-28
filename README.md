@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 Here are a few highlights of the projects I’m working on or have completed:
 
-- **[Project Name]** - Brief description of the project and technologies used.
+- **[My Project]** - Do not have yet.
 
 Feel free to check out my repositories to see more of what I've been working on!
 
@@ -30,8 +30,8 @@ Feel free to check out my repositories to see more of what I've been working on!
 
 ## 🔗 Additional Links
 
-- **Personal Website/Portfolio:** [Do Not have yet](https://your-portfolio.com) (if applicable)
-- **VNOI Profile:** [VNOI Profile](https://oj.vnoi.info/user/HinaKasumi) (if applicable)
+- **Personal Website/Portfolio:** [Do Not have yet](https://your-portfolio.com)
+- **VNOI Profile:** [VNOI Profile](https://oj.vnoi.info/user/HinaKasumi)
 
 ## 📈 GitHub Stats
 
