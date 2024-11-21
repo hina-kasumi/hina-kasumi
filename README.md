@@ -6,13 +6,12 @@ Welcome to my GitHub profile!
 
 - 🎓 Currently studying at the University of Transport and Communications.
 - I'm from HaNoi, VietNam.
-- 💻 Proficient in **Java** and **C++**.
+- 💻 Proficient in **Java**, **Spring Boot** and **JavaScript**.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Java, C++
-- **Web Development:** HTML, CSS, Java (Spring, Spring Boot)
-- **App Development:** Java, Kotlin (Android), Swift (iOS)
+- **Languages:** Java, JavaScript and C++
+- **Web Development:** HTML, CSS, JavaScript, Java(Spring Boot), Bootstrap
 - **Tools:** Git, GitHub, Docker, Jenkins
 
 ## 🌟 Projects
