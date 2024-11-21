@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile!
 
+![](https://komarev.com/ghpvc/?username=hina-kasumi)
+
 ## 🚀 About Me
 
 - 🎓 Currently studying at the University of Transport and Communications.
