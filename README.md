@@ -8,19 +8,22 @@ Welcome to my GitHub profile!
 
 - 🎓 Currently studying at the University of Transport and Communications.
 - I'm from HaNoi, VietNam.
-- 💻 Proficient in **Java**, **Spring Boot** and **JavaScript**.
+- 💻 Proficient in **Java**, **Spring Boot**, **JavaScript** and **ReactJS**.
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** Java, JavaScript and C++
-- **Web Development:** HTML, CSS, JavaScript, Java(Spring Boot), Bootstrap
-- **Tools:** Git, GitHub, Docker, Jenkins
+- **Web Development:** HTML, CSS, JavaScript, Java(Spring), Tailwind, ReactJS.
+- **Tools:** Git, GitHub, Docker
 
 ## 🌟 Projects
 
 Here are a few highlights of the projects I’m working on or have completed:
 
-- **[My Project]** - Do not have yet.
+- **[Investor AI Website](https://github.com/ltdungg/Investor-AI-Website)**
+- **[IT Forum](https://github.com/hina-kasumi/IT_Forum)**
+- **[2D Platformer Java Game](https://github.com/hina-kasumi/2D_Platformer_Java_Game)**
+- **[Chat Real Time Spring](https://github.com/hina-kasumi/Chat_Real_Time_Spring)**
 
 Feel free to check out my repositories to see more of what I've been working on!
 
@@ -28,6 +31,7 @@ Feel free to check out my repositories to see more of what I've been working on!
 
 - **Email:** [nguyenhaihieu89@gmail.com](mailto:nguyenhaihieu89@gmail.com)
 - **Facebook:** [Nguyễn Hiếu](https://www.facebook.com/profile.php?id=100022548679159)
+- **Linkedin** [Hiếu Nguyễn](https://www.linkedin.com/in/hieu-nguyen-913632331/)
 
 ## 🔗 Additional Links
 
