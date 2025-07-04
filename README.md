@@ -16,6 +16,8 @@ Welcome to my GitHub profile!
 - **Web Development:** HTML, CSS, JavaScript, Java(Spring), Tailwind, ReactJS.
 - **Tools:** Git, GitHub, Docker
 
+![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hina-kasumi&hide=javascript,html&theme=radical&layout=compact)
+
 ## 🌟 Projects
 
 Here are a few highlights of the projects I’m working on or have completed:
